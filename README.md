@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NijTeck&layout=compact&langs_count=10&exclude_repo=iQOO-Z1-kernel,NijTeck.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=leonardesere&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NijTeck&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 
 ### ✍️ Random Dev Quote
