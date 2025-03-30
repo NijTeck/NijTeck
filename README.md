@@ -12,7 +12,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NijTeck&layout=compact&langs_count=10&hide=html,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=NijTeck&limit=5&theme=gruvbox&combine_all_yearly_contributions=true&cache_seconds=0)](https://github.com/NijTeck)
+### 🔝 Top Repositories
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=YOUR_REPO_NAME_1&theme=gruvbox)](https://github.com/NijTeck/aztrol)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=YOUR_REPO_NAME_2&theme=gruvbox)](https://github.com/NijTeck/codebasepoc)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=YOUR_REPO_NAME_2&theme=gruvbox)](https://github.com/NijTeck/portfolio-repo)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=YOUR_REPO_NAME_2&theme=gruvbox)](https://github.com/NijTeck/elz-network-pipeline)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
