@@ -12,8 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NijTeck&layout=compact&langs_count=8&hide=html,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NijTeck&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=NijTeck&limit=5&theme=gruvbox&combine_all_yearly_contributions=true&cache_seconds=0)](https://github.com/NijTeck)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
