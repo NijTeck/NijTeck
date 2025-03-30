@@ -12,10 +12,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NijTeck&layout=compact&langs_count=10&hide=html,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=laeintel&repo=aztrol&theme=gruvbox)](https://github.com/laeintel/aztrol)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=portfolio-repo&theme=gruvbox)](https://github.com/NijTeck/portfolio-repo)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=elz-network-pipeline&theme=gruvbox)](https://github.com/NijTeck/elz-network-pipeline)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=Azure-IaaC-Terraform&theme=gruvbox)](https://github.com/NijTeck/Azure-IaaC-Terraform)
+
+<a href="https://github.com/NijTeck/elz-network-pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=elz-network-pipeline&theme=gruvbox" />
+</a>
+<a href="https://github.com/NijTeck/portfolio-repo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=portfolio-repo&theme=gruvbox" />
+</a>
+<a href="https://github.com/NijTeck/Azure-IaaC-Terraform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=Azure-IaaC-Terraform&theme=gruvbox" />
+</a>
+<a href="https://github.com/laeintel/aztrol">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laeintel&repo=aztrol&theme=gruvbox" />
+</a>
 
 
 ### ✍️ Random Dev Quote
