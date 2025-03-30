@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+
+# Documentation
+docs/
+
+# Generated files
+*.generated.*
