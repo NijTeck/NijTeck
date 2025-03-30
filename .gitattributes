@@ -1,0 +1,5 @@
+# Tell GitHub to ignore certain files in language statistics
+*.html linguist-vendored=true
+documentation/* linguist-documentation=true
+vendor/* linguist-vendored=true
+generated/* linguist-generated=true
