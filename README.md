@@ -23,6 +23,7 @@ I'm a **Cloud Solutions Architect** specializing in Azure infrastructure and Dev
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Cloud Platforms
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -37,17 +38,22 @@ I'm a **Cloud Solutions Architect** specializing in Azure infrastructure and Dev
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Analytics & AI
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Stream Analytics](https://img.shields.io/badge/Azure%20Stream%20Analytics-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 📈 GitHub Stats
 
