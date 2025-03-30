@@ -13,19 +13,10 @@
 
 ### 🔝 Top Repositories
 
-<a href="https://github.com/NijTeck/elz-network-pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=elz-network-pipeline&theme=gruvbox" />
-</a>
-<a href="https://github.com/NijTeck/portfolio-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=portfolio-repo&theme=gruvbox" />
-</a>
-<a href="https://github.com/NijTeck/Azure-IaaC-Terraform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=Azure-IaaC-Terraform&theme=gruvbox" />
-</a>
-<a href="https://github.com/laeintel/aztrol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laeintel&repo=aztrol&theme=gruvbox" />
-</a>
-
+- [**elz-network-pipeline**](https://github.com/NijTeck/elz-network-pipeline) - Azure network infrastructure pipeline
+- [**portfolio-repo**](https://github.com/NijTeck/portfolio-repo) - Personal portfolio repository
+- [**Azure-IaaC-Terraform**](https://github.com/NijTeck/Azure-IaaC-Terraform) - Azure Infrastructure as Code with Terraform
+- [**aztrol**](https://github.com/laeintel/aztrol) - Azure control project
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
