@@ -58,18 +58,19 @@ I'm a **Cloud Solutions Architect** specializing in Azure infrastructure and Dev
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/NijTeck">
-    <img src="https://github-readme-stats.vercel.app/api?username=NijTeck&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  </a>
-  <a href="https://github.com/NijTeck">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NijTeck&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" height="170"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/NijTeck">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NijTeck&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github-readme-stats.vercel.app/api?username=NijTeck&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NijTeck&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NijTeck&layout=compact&langs_count=8&theme=tokyonight&hide=html&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 Key Skills Breakdown
