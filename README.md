@@ -55,26 +55,61 @@ I'm a **Cloud Solutions Architect** specializing in Azure infrastructure and Dev
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Stream Analytics](https://img.shields.io/badge/Azure%20Stream%20Analytics-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <h3>leonardesere's GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=NijTeck&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67D3F0&text_color=67D3F0&icon_color=67D3F0" alt="leonardesere's GitHub Stats" />
-      </td>
-      <td width="33%" align="center">
-        <h3>Streak Stats</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NijTeck&theme=tokyonight&hide_border=true&background=0D1117&ring=67D3F0&fire=67D3F0&currStreakLabel=67D3F0" alt="Streak Stats" />
-      </td>
-      <td width="33%" align="center">
-        <h3>Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NijTeck&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=html&bg_color=0D1117&title_color=67D3F0&text_color=67D3F0" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=NijTeck&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NijTeck&layout=compact&langs_count=8&hide=html,css&count_private=true&theme=tokyonight&include_all_commits=true" alt="Top Languages" height="170"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NijTeck&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🔥 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Azure Network Pipeline</h3>
+      <div align="center">
+        <a href="https://github.com/NijTeck/elz-network-pipeline" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=elz-network-pipeline&theme=tokyonight" width="100%" alt="elz-network-pipeline"/>
+        </a>
+        <p><strong>Azure network infrastructure pipeline with enterprise landing zone architecture</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Azure IaC with Terraform</h3>
+      <div align="center">
+        <a href="https://github.com/NijTeck/Azure-IaaC-Terraform" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=Azure-IaaC-Terraform&theme=tokyonight" width="100%" alt="Azure-IaaC-Terraform"/>
+        </a>
+        <p><strong>Infrastructure as Code for Azure resources using Terraform modules</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Portfolio Projects</h3>
+      <div align="center">
+        <a href="https://github.com/NijTeck/portfolio-repo" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NijTeck&repo=portfolio-repo&theme=tokyonight" width="100%" alt="portfolio-repo"/>
+        </a>
+        <p><strong>Showcase of cloud architecture designs and implementations</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Aztrol</h3>
+      <div align="center">
+        <a href="https://github.com/laeintel/aztrol" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeintel&repo=aztrol&theme=tokyonight" width="100%" alt="aztrol"/>
+        </a>
+        <p><strong>Azure control and governance framework</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Key Skills Breakdown
 
