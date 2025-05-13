@@ -147,7 +147,7 @@ Strong adherence to and application of High Availability, Disaster Recovery, Sca
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Solutions%20Architect%20Expert%20(AZ--305)-0078D4?style=flat-square&logo=microsoftazure" alt="Azure Solutions Architect Expert"/> *(In Progress)*
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Solutions%20Architect%20Expert%20(AZ--305)-0078D4?style=flat-square&logo=microsoftazure" alt="Azure Solutions Architect Expert"/> 
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Security%20Engineer%20Associate%20(AZ--500)-0078D4?style=flat-square&logo=microsoftazure" alt="Azure Security Engineer Associate"/>
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate%20(AZ--104)-0078D4?style=flat-square&logo=microsoftazure" alt="Azure Administrator Associate"/>
   <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws" alt="AWS Solutions Architect Associate"/>
