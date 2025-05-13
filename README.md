@@ -211,8 +211,6 @@ Strong adherence to and application of High Availability, Disaster Recovery, Sca
 
 ## 📊 My GitHub Statistics
 
-*Please note: Replace `NijTeck` with your GitHub username for accurate stats. You might need to generate a Personal Access Token (PAT) for private repo stats if desired and include it in the URL (`&token=YOUR_PAT`).*
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NijTeck&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&custom_title=Leonard's%20GitHub%20Activity&border_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Leonard's GitHub Stats" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NijTeck&layout=compact&langs_count=10&hide=html,css&theme=tokyonight&border_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" height="195"/>
