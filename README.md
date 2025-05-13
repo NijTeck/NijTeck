@@ -157,7 +157,6 @@ Strong adherence to and application of High Availability, Disaster Recovery, Sca
 
 ## 💡 Featured Projects
 
-*Please note: Replace `NijTeck`/`laeintel` with your GitHub username and update repository names as needed.*
 
 <table>
   <tr>
