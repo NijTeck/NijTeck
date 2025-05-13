@@ -54,7 +54,7 @@ I'm a **Cloud Solutions Architect** with a passion for designing secure, scalabl
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NijTeck&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NijTeck&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&custom_title=GitHub%20Stats&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NijTeck&layout=compact&langs_count=8&hide=html,css&theme=tokyonight" alt="Top Languages" height="170"/>
 </div>
 
