@@ -109,8 +109,6 @@ Strong adherence to and application of High Availability, Disaster Recovery, Sca
 
 ## 💼 Professional Experience Highlights
 
-*(Company names have been omitted to maintain confidentiality as per request)*
-
 **Key Focus Areas: Cloud Architecture, IaC Development, DevOps, Security & Compliance, AI Solutions**
 
 *   Led the architectural design and technical strategy for complex Azure solutions, translating business requirements into secure, scalable, and highly available cloud infrastructure aligned with the Azure Well-Architected Framework. Produced detailed architectural diagrams and documentation for stakeholder communication and implementation guidance.
