@@ -212,11 +212,6 @@ Strong adherence to and application of High Availability, Disaster Recovery, Sca
 ## 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NijTeck&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&custom_title=Leonard's%20GitHub%20Activity&border_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Leonard's GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NijTeck&layout=compact&langs_count=10&hide=html,css&theme=tokyonight&border_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" height="195"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NijTeck&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B25&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
