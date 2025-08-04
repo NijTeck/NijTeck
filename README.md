@@ -21,6 +21,7 @@ I'm a Cloud Professional with **11+ years in tech** and **6+ years specializing 
 ## 🏆 Certifications
 
 - Azure Solutions Architect Expert (AZ-305)
+- Azure DevOps Engineer Expert (AZ-400)
 - Azure Security Engineer Associate (AZ-500)
 - Azure Administrator Associate (AZ-104)
 - AWS Solutions Architect Associate
