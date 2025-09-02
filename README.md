@@ -1,47 +1,84 @@
 # Hi, I'm Leonard Esere 👋
-### Principal Cloud Architect & DevOps Strategist
+### Principal Cloud Architect • DevOps Strategist • Builder of PolicyCortex
 
-I'm a Cloud Professional with **11+ years in tech** and **6+ years specializing in Azure and AWS**. I design secure, scalable, and cost-effective cloud solutions while simplifying complex deployments through automation and DevOps practices.
+> I turn cloud chaos into governed systems with code, math, and ruthless automation.
+
+- **11+ years in tech** • **6+ years on Azure & AWS**
+- I design **secure, scalable, cost‑efficient** platforms and compress complexity with **IaC + DevOps**.
+- Currently building **PolicyCortex** — an AI‑driven, multi‑cloud governance control plane.
+
+---
+
+## 🔭 Building Now — PolicyCortex
+**PolicyCortex** is a unified, AI‑powered governance platform for **AWS • Azure • GCP** that:
+- **Predicts** compliance & security drift *before* incidents (30–90 day look‑ahead).
+- **Correlates** identity, config, runtime & cost signals into a single **governance graph**.
+- **Automates** safe remediation with **approval‑gated workflows**.
+- **Conversational control plane** — ask questions in plain English, get actions + evidence.
+
+**Tech I’m using across the stack**
+`Rust (Axum)` • `Python` • `GraphQL Federation` • `Kubernetes/Istio` •  
+`PostgreSQL (RLS)` • `ClickHouse` • `Redis/Dragonfly` • `Event Sourcing/CQRS` •  
+`Terraform` • `GitHub Actions` • `Azure DevOps`
+
+**Repos & Links**
+- 🔗 PolicyCortex (core): https://github.com/laeintel/policycortex  
+- 🌐 Website: https://policycortex.com • https://aeolitech.com
+
+---
 
 ## 🚀 What I Do
+- **Cloud Architecture** – Enterprise patterns on Azure/AWS aligned to the **Well‑Architected Framework**
+- **Infrastructure as Code** – **Terraform**, **Bicep**, Python tooling; idempotent, testable, reviewable
+- **DevOps & CI/CD** – GitHub Actions, Azure DevOps; containers & **AKS**
+- **Security & Compliance** – CMMC, NIST 800‑171, FedRAMP; Zero‑Trust & policy‑as‑code
+- **AI/ML Systems** – Predictive models & agents integrated into operations
 
-- **Cloud Architecture:** Design enterprise-grade Azure solutions following Well-Architected Framework
-- **Infrastructure as Code:** Expert in Terraform, Bicep, and Python automation
-- **DevOps & CI/CD:** Azure DevOps, GitHub Actions, containerization (Docker, AKS)
-- **Security & Compliance:** CMMC, NIST 800-171, FedRAMP implementation with Azure security tools
-- **AI/ML Solutions:** Building AI agents and predictive models on Azure
+---
 
-## 💻 Tech Stack
-
+## 🧰 Tech Stack
 **Cloud:** Azure (Expert) • AWS (Proficient) • GCP (Familiar)  
-**IaC:** Terraform • Bicep • ARM Templates • Python • PowerShell  
+**IaC:** Terraform • Bicep • ARM • Python • PowerShell  
 **DevOps:** Azure DevOps • GitHub Actions • Docker • Kubernetes (AKS)  
-**Security:** Microsoft Defender • Azure Sentinel • Azure Policy (EPAC) • Zero Trust
+**Security:** Microsoft Defender • Sentinel • Azure Policy (EPAC) • Zero Trust
+
+---
 
 ## 🏆 Certifications
-
-- Azure Solutions Architect Expert (AZ-305)
-- Azure DevOps Engineer Expert (AZ-400)
-- Azure Security Engineer Associate (AZ-500)
-- Azure Administrator Associate (AZ-104)
+- Azure Solutions Architect Expert (AZ‑305)
+- Azure DevOps Engineer Expert (AZ‑400)
+- Azure Security Engineer Associate (AZ‑500)
+- Azure Administrator Associate (AZ‑104)
 - AWS Solutions Architect Associate
-- CompTIA Security+ & Linux+
+- CompTIA Security+ • Linux+
+
+---
+
+## 🧪 Operating Principles
+- **Single Source of Truth** – Everything as code (infra, policy, pipelines, docs).  
+- **Deterministic Delivery** – Reproducible builds, drift detection, automated remediation.  
+- **Evidence by Default** – Audit trails & metrics embedded in every workflow.  
+- **Human‑in‑the‑Loop** – Safety gates & approvals on all automations that matter.
+
+---
 
 ## 🔨 Featured Projects
-
 | Project | Description |
-|---------|-------------|
-| [Azure Network Pipeline](https://github.com/NijTeck/elz-network-pipeline) | Enterprise-scale landing zone architecture with Terraform/Bicep |
-| [Azure IaC Terraform](https://github.com/NijTeck/Azure-IaaC-Terraform) | Reusable Terraform modules for Azure resources |
-| [Cloud Architecture Portfolio](https://github.com/NijTeck/portfolio-repo) | Various cloud architecture designs and patterns |
-| [Aztrol Framework](https://github.com/laeintel/aztrol) | Azure governance framework using Policy and Blueprints |
+|---|---|
+| **PolicyCortex** | AI‑driven multi‑cloud governance platform (predictive compliance • correlation graph • auto‑remediation). |
+| [Azure Network Pipeline](https://github.com/NijTeck/elz-network-pipeline) | Enterprise landing zone pipeline with Terraform/Bicep. |
+| [Azure IaC Terraform](https://github.com/NijTeck/Azure-IaaC-Terraform) | Reusable, composable Terraform modules for Azure. |
+| [Cloud Architecture Portfolio](https://github.com/NijTeck/portfolio-repo) | Reference architectures & design patterns. |
+| [Aztrol Framework](https://github.com/laeintel/aztrol) | Azure governance framework using Policy/Blueprints. |
 
-## 📊 GitHub Stats
+---
 
+## 📊 Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NijTeck&theme=tokyonight&hide_border=true)
 
-## 📫 Let's Connect
+---
 
+## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardesere)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesere@laeintel.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://leonardesere.com)
@@ -49,5 +86,5 @@ I'm a Cloud Professional with **11+ years in tech** and **6+ years specializing 
 
 ---
 
-💡 **Currently working on:** Enterprise Azure landing zones with multi-region resilience  
-🌱 **Learning:** CISSP, Advanced Ansible, Azure Cybersecurity Expert methodologies
+**Currently:** building **PolicyCortex** (multi‑region landing zones, predictive compliance, and approval‑gated automation).  
+**Learning:** CISSP • Advanced Ansible • Azure Cybersecurity Expert methodologies
