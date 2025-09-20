@@ -85,6 +85,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NijTeck)
 
 ---
-
-**Currently:** building **PolicyCortex** (multi‑region landing zones, predictive compliance, and approval‑gated automation).  
-**Learning:** CISSP • Advanced Ansible • Azure Cybersecurity Expert methodologies
