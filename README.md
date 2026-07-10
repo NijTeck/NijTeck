@@ -1,7 +1,13 @@
 <div align="center">
 
 <!-- the manifesto runs itself. commit console.svg next to this README. -->
-<img src="console.svg" alt="Terminal session. whoami: leonard esere, dallas-fort worth. history: 11 years across los alamos, mitre, frontier. diagnosis: dashboards alert, engineers burn out, nothing gets fixed. root cause: the tools are the problem. the fix: PolicyCortex (founder, the cloud engineer that fixes, not alerts) and Orbitra Security (co-founder and cto, identity threats contained in under 60 seconds). 92 percent commits. DoD Secret and DoE Q. 3 risks found, 3 fixed, 0 alerts raised, 0 dashboards opened.">
+<img src="console.svg" alt="Terminal session. whoami: leonard esere, dallas-fort worth, 13 years in tech. experience: los alamos national laboratory (zero trust for mission-critical government cloud), mitre (federally funded r&d, national security systems), frontier airlines (azure for 1M+ daily passengers, 42% cloud cost cut). diagnosis: dashboards alert, engineers burn out, nothing gets fixed. root cause: the tools are the problem. the fix: PolicyCortex (founder, autonomous cloud governance: predict, enforce, prove) and Orbitra Security (co-founder and cto, identity threats contained in under 60 seconds). 92 percent commits. DoD Secret and DoE Q. 3 risks found, 3 fixed, 0 alerts raised, 0 dashboards opened.">
+
+<br>
+
+<a href="https://www.lanl.gov/"><b>Los Alamos National Laboratory</b></a>&ensp;·&ensp;<a href="https://www.mitre.org/"><b>MITRE</b></a>&ensp;·&ensp;<a href="https://www.flyfrontier.com/"><b>Frontier Airlines</b></a>
+<br>
+<sub>13 years in tech. currently architecting cloud security for a national laboratory.</sub>
 
 <br><br>
 
