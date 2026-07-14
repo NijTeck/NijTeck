@@ -11,16 +11,9 @@
     .purple { fill: #bc8cff; font-weight: 600; }
     .ok { fill: #3fb950; font-weight: 600; }
     .cmt { fill: #6e7681; font-style: italic; }
-    .cmd { opacity: 0; clip-path: inset(-20% 102% -20% -2%); animation-name: on, type; animation-fill-mode: forwards, forwards; }
-    .out { opacity: 0; animation: on 0.01s steps(1, end) forwards; }
-    .tail { opacity: 0; animation: on 0.01s steps(1, end) forwards; animation-delay: 16.4s; }
-    .blink { animation: blink 1.1s steps(1, end) infinite; }
-    @keyframes on { to { opacity: 1; } }
-    @keyframes type { to { clip-path: inset(-20% -2% -20% -2%); } }
-    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
   </style>
 
-  <!-- window -->
+  <!-- window chrome -->
   <rect x="1" y="1" width="838" height="630" rx="13" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <path d="M1,14 Q1,1 14,1 H826 Q839,1 839,14 V45 H1 Z" fill="#161b22"/>
   <line x1="1" y1="45" x2="839" y2="45" stroke="#30363d" stroke-width="1"/>
@@ -29,36 +22,103 @@
   <circle cx="70" cy="23" r="6" fill="#28c840"/>
   <text x="420" y="28" text-anchor="middle" class="title">leonard@nijteck: ~/manifesto</text>
 
-  <!-- session -->
-  <text x="26" y="84" class="cmd c" style="animation-delay:0.4s,0.4s;animation-duration:0.01s,0.45s;animation-timing-function:steps(1,end),steps(8,end)"><tspan class="p">$</tspan> whoami</text>
-  <text x="26" y="108" class="out" style="animation-delay:1.2s">leonard esere · dallas-fort worth · 13 years in tech</text>
+  <!-- === $ whoami === -->
+  <g opacity="0">
+    <text x="26" y="84" class="c"><tspan class="p">$</tspan> whoami</text>
+    <set attributeName="opacity" to="1" begin="0.4s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="108">leonard esere · dallas-fort worth · 13 years in tech</text>
+    <set attributeName="opacity" to="1" begin="1.2s"/>
+  </g>
 
-  <text x="26" y="140" class="cmd c" style="animation-delay:1.8s,1.8s;animation-duration:0.01s,0.7s;animation-timing-function:steps(1,end),steps(20,end)"><tspan class="p">$</tspan> cat experience.log</text>
-  <text x="26" y="164" class="out" style="animation-delay:2.8s"><tspan class="org">los alamos national laboratory</tspan><tspan x="310">zero trust for mission-critical government cloud</tspan></text>
-  <text x="26" y="188" class="out" style="animation-delay:3.4s"><tspan class="org">mitre</tspan><tspan x="310">federally funded r&amp;d · national security systems</tspan></text>
-  <text x="26" y="212" class="out" style="animation-delay:4s"><tspan class="org">frontier airlines</tspan><tspan x="310">azure for 1M+ daily passengers · 42% cloud cost cut</tspan></text>
+  <!-- === $ cat experience.log === -->
+  <g opacity="0">
+    <text x="26" y="140" class="c"><tspan class="p">$</tspan> cat experience.log</text>
+    <set attributeName="opacity" to="1" begin="1.8s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="164"><tspan class="org">los alamos national laboratory</tspan><tspan x="310">zero trust for mission-critical government cloud</tspan></text>
+    <set attributeName="opacity" to="1" begin="2.8s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="188"><tspan class="org">mitre</tspan><tspan x="310">federally funded r&amp;d · national security systems</tspan></text>
+    <set attributeName="opacity" to="1" begin="3.4s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="212"><tspan class="org">frontier airlines</tspan><tspan x="310">azure for 1M+ daily passengers · 42% cloud cost cut</tspan></text>
+    <set attributeName="opacity" to="1" begin="4.0s"/>
+  </g>
 
-  <text x="26" y="244" class="cmd c" style="animation-delay:4.8s,4.8s;animation-duration:0.01s,0.7s;animation-timing-function:steps(1,end),steps(19,end)"><tspan class="p">$</tspan> cat diagnosis.log</text>
-  <text x="26" y="268" class="out" style="animation-delay:5.8s">dashboards alert. engineers burn out. nothing gets fixed.</text>
-  <text x="26" y="292" class="out w" style="animation-delay:6.6s">root cause: the tools are the problem.</text>
+  <!-- === $ cat diagnosis.log === -->
+  <g opacity="0">
+    <text x="26" y="244" class="c"><tspan class="p">$</tspan> cat diagnosis.log</text>
+    <set attributeName="opacity" to="1" begin="4.8s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="268">dashboards alert. engineers burn out. nothing gets fixed.</text>
+    <set attributeName="opacity" to="1" begin="5.8s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="292" class="w">root cause: the tools are the problem.</text>
+    <set attributeName="opacity" to="1" begin="6.6s"/>
+  </g>
 
-  <text x="26" y="324" class="cmd c" style="animation-delay:7.4s,7.4s;animation-duration:0.01s,0.55s;animation-timing-function:steps(1,end),steps(14,end)"><tspan class="p">$</tspan> ls ~/the-fix</text>
-  <text x="26" y="348" class="out" style="animation-delay:8.3s"><tspan class="blue">policycortex/</tspan><tspan x="161">founder · autonomous cloud governance · predict. enforce. prove.</tspan></text>
-  <text x="26" y="372" class="out" style="animation-delay:9.1s"><tspan class="purple">orbitra/</tspan><tspan x="161">co-founder + cto · identity threats contained in under 60s</tspan></text>
+  <!-- === $ ls ~/the-fix === -->
+  <g opacity="0">
+    <text x="26" y="324" class="c"><tspan class="p">$</tspan> ls ~/the-fix</text>
+    <set attributeName="opacity" to="1" begin="7.4s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="348"><tspan class="blue">policycortex/</tspan><tspan x="161">founder · autonomous cloud governance · predict. enforce. prove.</tspan></text>
+    <set attributeName="opacity" to="1" begin="8.3s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="372"><tspan class="purple">orbitra/</tspan><tspan x="161">co-founder + cto · identity threats contained in under 60s</tspan></text>
+    <set attributeName="opacity" to="1" begin="9.1s"/>
+  </g>
 
-  <text x="26" y="404" class="cmd c" style="animation-delay:9.9s,9.9s;animation-duration:0.01s,0.6s;animation-timing-function:steps(1,end),steps(18,end)"><tspan class="p">$</tspan> cat github.stats</text>
-  <text x="26" y="428" class="out" style="animation-delay:10.8s">92% commits. the code does the talking here.</text>
+  <!-- === $ cat github.stats === -->
+  <g opacity="0">
+    <text x="26" y="404" class="c"><tspan class="p">$</tspan> cat github.stats</text>
+    <set attributeName="opacity" to="1" begin="9.9s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="428">92% commits. the code does the talking here.</text>
+    <set attributeName="opacity" to="1" begin="10.8s"/>
+  </g>
 
-  <text x="26" y="460" class="cmd c" style="animation-delay:11.6s,11.6s;animation-duration:0.01s,0.65s;animation-timing-function:steps(1,end),steps(18,end)"><tspan class="p">$</tspan> echo $CLEARANCES</text>
-  <text x="26" y="484" class="out" style="animation-delay:12.6s">DoD Secret · DoE Q</text>
+  <!-- === $ echo $CLEARANCES === -->
+  <g opacity="0">
+    <text x="26" y="460" class="c"><tspan class="p">$</tspan> echo $CLEARANCES</text>
+    <set attributeName="opacity" to="1" begin="11.6s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="484">DoD Secret · DoE Q</text>
+    <set attributeName="opacity" to="1" begin="12.6s"/>
+  </g>
 
-  <text x="26" y="516" class="cmd c" style="animation-delay:13.4s,13.4s;animation-duration:0.01s,0.8s;animation-timing-function:steps(1,end),steps(24,end)"><tspan class="p">$</tspan> policycortex fix --all</text>
-  <text x="26" y="540" class="out" style="animation-delay:14.7s"><tspan class="ok">✓</tspan><tspan x="44">3 risks found · 3 fixed · 0 alerts raised · 0 dashboards opened</tspan></text>
+  <!-- === $ policycortex fix --all === -->
+  <g opacity="0">
+    <text x="26" y="516" class="c"><tspan class="p">$</tspan> policycortex fix --all</text>
+    <set attributeName="opacity" to="1" begin="13.4s"/>
+  </g>
+  <g opacity="0">
+    <text x="26" y="540"><tspan class="ok">✓</tspan><tspan x="44">3 risks found · 3 fixed · 0 alerts raised · 0 dashboards opened</tspan></text>
+    <set attributeName="opacity" to="1" begin="14.7s"/>
+  </g>
 
-  <text x="26" y="572" class="out cmt" style="animation-delay:15.6s"># looking for another dashboard? wrong terminal.</text>
+  <!-- === comment + cursor === -->
+  <g opacity="0">
+    <text x="26" y="572" class="cmt"># looking for another dashboard? wrong terminal.</text>
+    <set attributeName="opacity" to="1" begin="15.6s"/>
+  </g>
 
-  <g class="tail">
+  <g opacity="0">
     <text x="26" y="596" class="p">$</text>
-    <rect x="44" y="583" width="9" height="17" fill="#e6edf3" class="blink"/>
+    <rect x="44" y="583" width="9" height="17" fill="#e6edf3">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite" begin="16.4s"/>
+    </rect>
+    <set attributeName="opacity" to="1" begin="16.4s"/>
   </g>
 </svg>
