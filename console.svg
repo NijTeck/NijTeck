@@ -98,7 +98,7 @@
     <set attributeName="opacity" to="1" begin="12.6s"/>
   </g>
 
-  <!-- === $ policycortex fix --all === -->
+  <!-- === $ policycortex fix all === -->
   <g opacity="0">
     <text x="26" y="516" class="c"><tspan class="p">$</tspan> policycortex fix --all</text>
     <set attributeName="opacity" to="1" begin="13.4s"/>
