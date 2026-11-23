@@ -106,8 +106,6 @@ Exit code: 0
 <div align="center">
 
 <img height="170" src="https://streak-stats.demolab.com/?user=NijTeck&hide_border=false&border=1e3a46&background=071318&ring=00C7DF&fire=5CE4F5&currStreakLabel=00C7DF&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=9bb1bc&dates=6e8490&border_radius=12" alt="Live commit streak">
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NijTeck&show_icons=true&hide_border=false&border_color=1e3a46&bg_color=071318&title_color=00C7DF&text_color=9bb1bc&icon_color=5CE4F5&ring_color=00C7DF&border_radius=12&card_width=467" alt="Live GitHub stats">
 
 <br><br>
 
